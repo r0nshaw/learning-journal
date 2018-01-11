@@ -1,0 +1,3 @@
+Today was difficult. I was hopeful that things would get easier, but right now they are still challenging. I was good through the first part of the lecture today, but then during the second half I struggled to keep up. It made a difference in the lab as well, because it took me a while to get my footing. I feel like I spent a lot of time on the lab today. I really want to be able to get it done here because I have access to help and the amount of time I will have at home is not a guarantee. 
+
+I am having some trouble with looping. It is something I think I will need to continue to practice. The TAs again were very helpful. 
