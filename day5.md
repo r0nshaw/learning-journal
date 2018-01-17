@@ -1,0 +1,3 @@
+Day 5 was difficult for me. I feel like I am consistently 2 days behind. I was able to get direction from Allie about how to branch. I then was able to branch on my own until I got to question 5. Then things fell apart. I am not comfortable enough to really troubleshot when theings don't work. I spend too much time troubleshooting because it doesn't really get me anywhere.
+
+The lab was a challenge. The amount of work is also a challenge because I am having to spend so much time trying to get up to speed. I hope things will start to click soon. 
