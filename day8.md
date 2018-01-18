@@ -1,0 +1,3 @@
+I am very unconfident about what I'm doing. I don't want to quit, but I'm stuck in a place where I am not learning anything new. I read the material, listen to the labs, but just can't make connections. I think it's because I'm behind and don't really know how to get on track. 
+
+I worked with Michael on loops. I also talked to Mike about how to go about completing a lab that I am not understanding. I really don't feel like I made any progress.
